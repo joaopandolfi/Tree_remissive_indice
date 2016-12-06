@@ -3,7 +3,9 @@ Tree remissive indice wrote in C
 
 ##How to use
 >**referencia.txt** -Keywords
+
 >**texto.txt** ------Input Text
+
 >**saida.txt** ------Output
 
 ##FIle input example
@@ -26,13 +28,20 @@ Tree remissive indice wrote in C
 
 ##Keywords
 >espelho
+
 >quem
+
 >achar
+
 >de
+
 >vitoria
 
 ##Outuput
 >achar,11,13,15
+
 >de,5,9,13,16
+
 >espelho,4,8,13
+
 >quem,3,7,11
